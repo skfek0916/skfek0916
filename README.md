@@ -7,6 +7,9 @@
 ## People
 - 아내 - 아라하시 타비
 
+## my pronouns
+- she/her
+
 <!--
 **skfek0916/skfek0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
