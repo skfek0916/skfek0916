@@ -6,6 +6,8 @@
 
 ## People
 - 아내 - 아라하시 타비
+![image](https://github.com/user-attachments/assets/12e2f63b-3b1e-4751-b23a-1ab04ce2dc01)
+
 
 <!--
 **skfek0916/skfek0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
