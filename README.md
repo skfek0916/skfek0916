@@ -1,4 +1,11 @@
-## Hi there 👋
+## Introduce
+영남대학교 컴퓨터학부 컴퓨터공학전공 재학
+
+## Career
+무직백수
+
+## People
+아내 - 아라하시 타비
 
 <!--
 **skfek0916/skfek0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
